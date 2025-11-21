@@ -1,0 +1,52 @@
+{
+  "sourceFile": "medley-both-pages",
+  "pipelineName": "tesseract-2pass",
+  "generatedAt": "2025-11-20T05:52:22.643Z",
+  "docAiLatencyMs": 0,
+  "totalCostUsd": 0,
+  "totalEndToEndLatencyMs": 25928,
+  "totalPages": 2,
+  "pages": [
+    {
+      "pageNumber": 1,
+      "htmlFile": "word-level.html",
+      "llmLatencyMs": 0,
+      "llmUsage": {
+        "inputTokens": 0,
+        "outputTokens": 0,
+        "totalTokens": 0
+      },
+      "llmCostUsd": 0,
+      "endToEndLatencyMs": 25928,
+      "evaluation": {
+        "wordsOcredPercent": 97.17223650385604,
+        "extraWordsPercent": 2.9134532990574122,
+        "referenceWordCount": 1167,
+        "outputWordCount": 1168,
+        "missingWords": {},
+        "extraWords": {}
+      }
+    },
+    {
+      "pageNumber": 1,
+      "htmlFile": "single-column.html",
+      "llmLatencyMs": 0,
+      "llmUsage": {
+        "inputTokens": 0,
+        "outputTokens": 0,
+        "totalTokens": 0
+      },
+      "llmCostUsd": 0,
+      "endToEndLatencyMs": 0,
+      "evaluation": {
+        "wordsOcredPercent": 96.82947729220223,
+        "extraWordsPercent": 2.742073693230506,
+        "referenceWordCount": 1167,
+        "outputWordCount": 1162,
+        "missingWords": {},
+        "extraWords": {}
+      }
+    }
+  ],
+  "success": true
+}

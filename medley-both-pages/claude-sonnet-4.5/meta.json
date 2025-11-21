@@ -1,0 +1,52 @@
+{
+  "sourceFile": "medley-both-pages",
+  "pipelineName": "claude-sonnet-4.5",
+  "generatedAt": "2025-11-20T05:40:19.729Z",
+  "docAiLatencyMs": 0,
+  "totalCostUsd": 0.069756,
+  "totalEndToEndLatencyMs": 52114,
+  "totalPages": 2,
+  "pages": [
+    {
+      "pageNumber": 1,
+      "htmlFile": "word-level.html",
+      "llmLatencyMs": 52035,
+      "llmUsage": {
+        "inputTokens": 1951,
+        "outputTokens": 1935,
+        "totalTokens": 3886
+      },
+      "llmCostUsd": 0.034878,
+      "endToEndLatencyMs": 52114,
+      "evaluation": {
+        "wordsOcredPercent": 95.11568123393316,
+        "extraWordsPercent": 5.055698371893745,
+        "referenceWordCount": 1167,
+        "outputWordCount": 1169,
+        "missingWords": {},
+        "extraWords": {}
+      }
+    },
+    {
+      "pageNumber": 1,
+      "htmlFile": "single-column.html",
+      "llmLatencyMs": 52035,
+      "llmUsage": {
+        "inputTokens": 1951,
+        "outputTokens": 1935,
+        "totalTokens": 3886
+      },
+      "llmCostUsd": 0.034878,
+      "endToEndLatencyMs": 0,
+      "evaluation": {
+        "wordsOcredPercent": 95.11568123393316,
+        "extraWordsPercent": 5.055698371893745,
+        "referenceWordCount": 1167,
+        "outputWordCount": 1169,
+        "missingWords": {},
+        "extraWords": {}
+      }
+    }
+  ],
+  "success": true
+}

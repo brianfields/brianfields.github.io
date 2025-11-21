@@ -1,0 +1,52 @@
+{
+  "sourceFile": "medley-both-pages",
+  "pipelineName": "gpt5-vision",
+  "generatedAt": "2025-11-20T05:39:27.491Z",
+  "docAiLatencyMs": 0,
+  "totalCostUsd": 0.0204275,
+  "totalEndToEndLatencyMs": 10038,
+  "totalPages": 2,
+  "pages": [
+    {
+      "pageNumber": 1,
+      "htmlFile": "word-level.html",
+      "llmLatencyMs": 9969,
+      "llmUsage": {
+        "inputTokens": 1227,
+        "outputTokens": 868,
+        "totalTokens": 2095
+      },
+      "llmCostUsd": 0.01021375,
+      "endToEndLatencyMs": 10038,
+      "evaluation": {
+        "wordsOcredPercent": 39.76006855184233,
+        "extraWordsPercent": 10.882604970008568,
+        "referenceWordCount": 1167,
+        "outputWordCount": 591,
+        "missingWords": {},
+        "extraWords": {}
+      }
+    },
+    {
+      "pageNumber": 1,
+      "htmlFile": "single-column.html",
+      "llmLatencyMs": 9969,
+      "llmUsage": {
+        "inputTokens": 1227,
+        "outputTokens": 868,
+        "totalTokens": 2095
+      },
+      "llmCostUsd": 0.01021375,
+      "endToEndLatencyMs": 0,
+      "evaluation": {
+        "wordsOcredPercent": 39.76006855184233,
+        "extraWordsPercent": 10.882604970008568,
+        "referenceWordCount": 1167,
+        "outputWordCount": 591,
+        "missingWords": {},
+        "extraWords": {}
+      }
+    }
+  ],
+  "success": true
+}

@@ -1,0 +1,52 @@
+{
+  "sourceFile": "medley-both-pages",
+  "pipelineName": "tesseract-no-preprocess",
+  "generatedAt": "2025-11-20T05:38:24.739Z",
+  "docAiLatencyMs": 0,
+  "totalCostUsd": 0,
+  "totalEndToEndLatencyMs": 12634,
+  "totalPages": 2,
+  "pages": [
+    {
+      "pageNumber": 1,
+      "htmlFile": "word-level.html",
+      "llmLatencyMs": 0,
+      "llmUsage": {
+        "inputTokens": 0,
+        "outputTokens": 0,
+        "totalTokens": 0
+      },
+      "llmCostUsd": 0,
+      "endToEndLatencyMs": 12634,
+      "evaluation": {
+        "wordsOcredPercent": 91.68808911739504,
+        "extraWordsPercent": 0.7712082262210797,
+        "referenceWordCount": 1167,
+        "outputWordCount": 1079,
+        "missingWords": {},
+        "extraWords": {}
+      }
+    },
+    {
+      "pageNumber": 1,
+      "htmlFile": "single-column.html",
+      "llmLatencyMs": 0,
+      "llmUsage": {
+        "inputTokens": 0,
+        "outputTokens": 0,
+        "totalTokens": 0
+      },
+      "llmCostUsd": 0,
+      "endToEndLatencyMs": 0,
+      "evaluation": {
+        "wordsOcredPercent": 91.43101970865467,
+        "extraWordsPercent": 1.5424164524421593,
+        "referenceWordCount": 1167,
+        "outputWordCount": 1085,
+        "missingWords": {},
+        "extraWords": {}
+      }
+    }
+  ],
+  "success": true
+}

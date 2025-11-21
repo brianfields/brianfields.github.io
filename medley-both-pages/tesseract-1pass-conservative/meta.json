@@ -1,0 +1,52 @@
+{
+  "sourceFile": "medley-both-pages",
+  "pipelineName": "tesseract-1pass-conservative",
+  "generatedAt": "2025-11-20T05:38:38.590Z",
+  "docAiLatencyMs": 0,
+  "totalCostUsd": 0,
+  "totalEndToEndLatencyMs": 13821,
+  "totalPages": 2,
+  "pages": [
+    {
+      "pageNumber": 1,
+      "htmlFile": "word-level.html",
+      "llmLatencyMs": 0,
+      "llmUsage": {
+        "inputTokens": 0,
+        "outputTokens": 0,
+        "totalTokens": 0
+      },
+      "llmCostUsd": 0,
+      "endToEndLatencyMs": 13821,
+      "evaluation": {
+        "wordsOcredPercent": 96.05826906598115,
+        "extraWordsPercent": 3.6846615252784916,
+        "referenceWordCount": 1167,
+        "outputWordCount": 1164,
+        "missingWords": {},
+        "extraWords": {}
+      }
+    },
+    {
+      "pageNumber": 1,
+      "htmlFile": "single-column.html",
+      "llmLatencyMs": 0,
+      "llmUsage": {
+        "inputTokens": 0,
+        "outputTokens": 0,
+        "totalTokens": 0
+      },
+      "llmCostUsd": 0,
+      "endToEndLatencyMs": 0,
+      "evaluation": {
+        "wordsOcredPercent": 95.71550985432734,
+        "extraWordsPercent": 3.513281919451585,
+        "referenceWordCount": 1167,
+        "outputWordCount": 1158,
+        "missingWords": {},
+        "extraWords": {}
+      }
+    }
+  ],
+  "success": true
+}

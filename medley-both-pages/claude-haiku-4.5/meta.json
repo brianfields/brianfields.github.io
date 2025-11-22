@@ -1,28 +1,28 @@
 {
   "sourceFile": "medley-both-pages",
   "pipelineName": "claude-haiku-4.5",
-  "generatedAt": "2025-11-20T05:40:50.263Z",
+  "generatedAt": "2025-11-22T00:33:44.199Z",
   "docAiLatencyMs": 0,
-  "totalCostUsd": 0.022702,
-  "totalEndToEndLatencyMs": 30411,
+  "totalCostUsd": 0.022661999999999998,
+  "totalEndToEndLatencyMs": 28177,
   "totalPages": 2,
   "pages": [
     {
       "pageNumber": 1,
       "htmlFile": "word-level.html",
-      "llmLatencyMs": 30333,
+      "llmLatencyMs": 28099,
       "llmUsage": {
-        "inputTokens": 1951,
-        "outputTokens": 1880,
-        "totalTokens": 3831
+        "inputTokens": 1941,
+        "outputTokens": 1878,
+        "totalTokens": 3819
       },
-      "llmCostUsd": 0.011351,
-      "endToEndLatencyMs": 30411,
+      "llmCostUsd": 0.011330999999999999,
+      "endToEndLatencyMs": 28177,
       "evaluation": {
-        "wordsOcredPercent": 92.37360754070265,
-        "extraWordsPercent": 10.882604970008568,
+        "wordsOcredPercent": 91.43101970865467,
+        "extraWordsPercent": 5.312767780634105,
         "referenceWordCount": 1167,
-        "outputWordCount": 1205,
+        "outputWordCount": 1129,
         "missingWords": {},
         "extraWords": {}
       }
@@ -30,19 +30,19 @@
     {
       "pageNumber": 1,
       "htmlFile": "single-column.html",
-      "llmLatencyMs": 30333,
+      "llmLatencyMs": 28099,
       "llmUsage": {
-        "inputTokens": 1951,
-        "outputTokens": 1880,
-        "totalTokens": 3831
+        "inputTokens": 1941,
+        "outputTokens": 1878,
+        "totalTokens": 3819
       },
-      "llmCostUsd": 0.011351,
+      "llmCostUsd": 0.011330999999999999,
       "endToEndLatencyMs": 0,
       "evaluation": {
-        "wordsOcredPercent": 92.37360754070265,
-        "extraWordsPercent": 10.882604970008568,
+        "wordsOcredPercent": 91.43101970865467,
+        "extraWordsPercent": 5.312767780634105,
         "referenceWordCount": 1167,
-        "outputWordCount": 1205,
+        "outputWordCount": 1129,
         "missingWords": {},
         "extraWords": {}
       }

@@ -1,28 +1,28 @@
 {
   "sourceFile": "medley-both-pages",
   "pipelineName": "claude-sonnet-4.5",
-  "generatedAt": "2025-11-20T05:40:19.729Z",
+  "generatedAt": "2025-11-22T00:33:15.907Z",
   "docAiLatencyMs": 0,
-  "totalCostUsd": 0.069756,
-  "totalEndToEndLatencyMs": 52114,
+  "totalCostUsd": 0.067386,
+  "totalEndToEndLatencyMs": 46378,
   "totalPages": 2,
   "pages": [
     {
       "pageNumber": 1,
       "htmlFile": "word-level.html",
-      "llmLatencyMs": 52035,
+      "llmLatencyMs": 46301,
       "llmUsage": {
-        "inputTokens": 1951,
-        "outputTokens": 1935,
-        "totalTokens": 3886
+        "inputTokens": 1941,
+        "outputTokens": 1858,
+        "totalTokens": 3799
       },
-      "llmCostUsd": 0.034878,
-      "endToEndLatencyMs": 52114,
+      "llmCostUsd": 0.033693,
+      "endToEndLatencyMs": 46378,
       "evaluation": {
-        "wordsOcredPercent": 95.11568123393316,
-        "extraWordsPercent": 5.055698371893745,
+        "wordsOcredPercent": 95.37275064267352,
+        "extraWordsPercent": 4.541559554413025,
         "referenceWordCount": 1167,
-        "outputWordCount": 1169,
+        "outputWordCount": 1166,
         "missingWords": {},
         "extraWords": {}
       }
@@ -30,19 +30,19 @@
     {
       "pageNumber": 1,
       "htmlFile": "single-column.html",
-      "llmLatencyMs": 52035,
+      "llmLatencyMs": 46301,
       "llmUsage": {
-        "inputTokens": 1951,
-        "outputTokens": 1935,
-        "totalTokens": 3886
+        "inputTokens": 1941,
+        "outputTokens": 1858,
+        "totalTokens": 3799
       },
-      "llmCostUsd": 0.034878,
+      "llmCostUsd": 0.033693,
       "endToEndLatencyMs": 0,
       "evaluation": {
-        "wordsOcredPercent": 95.11568123393316,
-        "extraWordsPercent": 5.055698371893745,
+        "wordsOcredPercent": 95.37275064267352,
+        "extraWordsPercent": 4.541559554413025,
         "referenceWordCount": 1167,
-        "outputWordCount": 1169,
+        "outputWordCount": 1166,
         "missingWords": {},
         "extraWords": {}
       }

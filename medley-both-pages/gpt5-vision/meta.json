@@ -1,28 +1,28 @@
 {
   "sourceFile": "medley-both-pages",
   "pipelineName": "gpt5-vision",
-  "generatedAt": "2025-11-20T05:39:27.491Z",
+  "generatedAt": "2025-11-22T00:32:29.404Z",
   "docAiLatencyMs": 0,
-  "totalCostUsd": 0.0204275,
-  "totalEndToEndLatencyMs": 10038,
+  "totalCostUsd": 0.0420675,
+  "totalEndToEndLatencyMs": 38915,
   "totalPages": 2,
   "pages": [
     {
       "pageNumber": 1,
       "htmlFile": "word-level.html",
-      "llmLatencyMs": 9969,
+      "llmLatencyMs": 38850,
       "llmUsage": {
         "inputTokens": 1227,
-        "outputTokens": 868,
-        "totalTokens": 2095
+        "outputTokens": 1950,
+        "totalTokens": 3177
       },
-      "llmCostUsd": 0.01021375,
-      "endToEndLatencyMs": 10038,
+      "llmCostUsd": 0.02103375,
+      "endToEndLatencyMs": 38915,
       "evaluation": {
-        "wordsOcredPercent": 39.76006855184233,
-        "extraWordsPercent": 10.882604970008568,
+        "wordsOcredPercent": 88.6032562125107,
+        "extraWordsPercent": 19.194515852613538,
         "referenceWordCount": 1167,
-        "outputWordCount": 591,
+        "outputWordCount": 1258,
         "missingWords": {},
         "extraWords": {}
       }
@@ -30,19 +30,19 @@
     {
       "pageNumber": 1,
       "htmlFile": "single-column.html",
-      "llmLatencyMs": 9969,
+      "llmLatencyMs": 38850,
       "llmUsage": {
         "inputTokens": 1227,
-        "outputTokens": 868,
-        "totalTokens": 2095
+        "outputTokens": 1950,
+        "totalTokens": 3177
       },
-      "llmCostUsd": 0.01021375,
+      "llmCostUsd": 0.02103375,
       "endToEndLatencyMs": 0,
       "evaluation": {
-        "wordsOcredPercent": 39.76006855184233,
-        "extraWordsPercent": 10.882604970008568,
+        "wordsOcredPercent": 88.6032562125107,
+        "extraWordsPercent": 19.194515852613538,
         "referenceWordCount": 1167,
-        "outputWordCount": 591,
+        "outputWordCount": 1258,
         "missingWords": {},
         "extraWords": {}
       }

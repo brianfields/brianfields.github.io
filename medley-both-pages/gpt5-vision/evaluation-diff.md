@@ -3,9 +3,9 @@
 ## Summary
 
 - **Words OCR'ed**: 1.9%
-- **Extra Words**: 5.7%
+- **Extra Words**: 5.5%
 - **Reference**: 1167 words
-- **Output**: 88 words
+- **Output**: 86 words
 
 ## ❌ Missing Words
 
@@ -578,12 +578,11 @@ Words in the output that are not in the reference (or appear more times than in 
 - **available** (extra 3x)
 - **view** (extra 3x)
 - **based** (extra 2x)
-- **column** (extra 2x)
 - **data** (extra 2x)
 - **gpt5** (extra 2x)
 - **html** (extra 2x)
+- **linearized** (extra 2x)
 - **ocr** (extra 2x)
-- **single** (extra 2x)
 - **text** (extra 2x)
 - **above** (extra 1x)
 - **ai** (extra 1x)

@@ -1,10 +1,10 @@
 {
   "sourceFile": "medley-both-pages",
   "pipelineName": "google-doc-ai",
-  "generatedAt": "2025-11-20T05:38:11.985Z",
-  "docAiLatencyMs": 2647,
+  "generatedAt": "2025-11-22T00:30:48.183Z",
+  "docAiLatencyMs": 2862,
   "totalCostUsd": 0,
-  "totalEndToEndLatencyMs": 2884,
+  "totalEndToEndLatencyMs": 3113,
   "totalPages": 2,
   "pages": [
     {
@@ -17,7 +17,7 @@
         "totalTokens": 0
       },
       "llmCostUsd": 0,
-      "endToEndLatencyMs": 2884,
+      "endToEndLatencyMs": 3113,
       "evaluation": {
         "wordsOcredPercent": 100,
         "extraWordsPercent": 0,

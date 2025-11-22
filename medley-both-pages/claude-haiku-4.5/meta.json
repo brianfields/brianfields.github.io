@@ -1,28 +1,28 @@
 {
   "sourceFile": "medley-both-pages",
   "pipelineName": "claude-haiku-4.5",
-  "generatedAt": "2025-11-22T00:33:44.199Z",
+  "generatedAt": "2025-11-22T00:50:45.133Z",
   "docAiLatencyMs": 0,
-  "totalCostUsd": 0.022661999999999998,
-  "totalEndToEndLatencyMs": 28177,
+  "totalCostUsd": 0.023022,
+  "totalEndToEndLatencyMs": 30513,
   "totalPages": 2,
   "pages": [
     {
       "pageNumber": 1,
       "htmlFile": "word-level.html",
-      "llmLatencyMs": 28099,
+      "llmLatencyMs": 30454,
       "llmUsage": {
         "inputTokens": 1941,
-        "outputTokens": 1878,
-        "totalTokens": 3819
+        "outputTokens": 1914,
+        "totalTokens": 3855
       },
-      "llmCostUsd": 0.011330999999999999,
-      "endToEndLatencyMs": 28177,
+      "llmCostUsd": 0.011511,
+      "endToEndLatencyMs": 30513,
       "evaluation": {
-        "wordsOcredPercent": 91.43101970865467,
-        "extraWordsPercent": 5.312767780634105,
+        "wordsOcredPercent": 91.9451585261354,
+        "extraWordsPercent": 7.02656383890317,
         "referenceWordCount": 1167,
-        "outputWordCount": 1129,
+        "outputWordCount": 1155,
         "missingWords": {},
         "extraWords": {}
       }
@@ -30,19 +30,19 @@
     {
       "pageNumber": 1,
       "htmlFile": "single-column.html",
-      "llmLatencyMs": 28099,
+      "llmLatencyMs": 30454,
       "llmUsage": {
         "inputTokens": 1941,
-        "outputTokens": 1878,
-        "totalTokens": 3819
+        "outputTokens": 1914,
+        "totalTokens": 3855
       },
-      "llmCostUsd": 0.011330999999999999,
+      "llmCostUsd": 0.011511,
       "endToEndLatencyMs": 0,
       "evaluation": {
-        "wordsOcredPercent": 91.43101970865467,
-        "extraWordsPercent": 5.312767780634105,
+        "wordsOcredPercent": 91.9451585261354,
+        "extraWordsPercent": 7.02656383890317,
         "referenceWordCount": 1167,
-        "outputWordCount": 1129,
+        "outputWordCount": 1155,
         "missingWords": {},
         "extraWords": {}
       }

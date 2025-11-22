@@ -1,28 +1,28 @@
 {
   "sourceFile": "medley-both-pages",
   "pipelineName": "claude-sonnet-4.5",
-  "generatedAt": "2025-11-22T00:33:15.907Z",
+  "generatedAt": "2025-11-22T00:50:14.527Z",
   "docAiLatencyMs": 0,
-  "totalCostUsd": 0.067386,
-  "totalEndToEndLatencyMs": 46378,
+  "totalCostUsd": 0.066936,
+  "totalEndToEndLatencyMs": 44587,
   "totalPages": 2,
   "pages": [
     {
       "pageNumber": 1,
       "htmlFile": "word-level.html",
-      "llmLatencyMs": 46301,
+      "llmLatencyMs": 44524,
       "llmUsage": {
         "inputTokens": 1941,
-        "outputTokens": 1858,
-        "totalTokens": 3799
+        "outputTokens": 1843,
+        "totalTokens": 3784
       },
-      "llmCostUsd": 0.033693,
-      "endToEndLatencyMs": 46378,
+      "llmCostUsd": 0.033468,
+      "endToEndLatencyMs": 44587,
       "evaluation": {
-        "wordsOcredPercent": 95.37275064267352,
-        "extraWordsPercent": 4.541559554413025,
+        "wordsOcredPercent": 95.11568123393316,
+        "extraWordsPercent": 4.884318766066838,
         "referenceWordCount": 1167,
-        "outputWordCount": 1166,
+        "outputWordCount": 1167,
         "missingWords": {},
         "extraWords": {}
       }
@@ -30,19 +30,19 @@
     {
       "pageNumber": 1,
       "htmlFile": "single-column.html",
-      "llmLatencyMs": 46301,
+      "llmLatencyMs": 44524,
       "llmUsage": {
         "inputTokens": 1941,
-        "outputTokens": 1858,
-        "totalTokens": 3799
+        "outputTokens": 1843,
+        "totalTokens": 3784
       },
-      "llmCostUsd": 0.033693,
+      "llmCostUsd": 0.033468,
       "endToEndLatencyMs": 0,
       "evaluation": {
-        "wordsOcredPercent": 95.37275064267352,
-        "extraWordsPercent": 4.541559554413025,
+        "wordsOcredPercent": 95.11568123393316,
+        "extraWordsPercent": 4.884318766066838,
         "referenceWordCount": 1167,
-        "outputWordCount": 1166,
+        "outputWordCount": 1167,
         "missingWords": {},
         "extraWords": {}
       }

@@ -1,28 +1,28 @@
 {
   "sourceFile": "medley-both-pages",
   "pipelineName": "gpt5-vision",
-  "generatedAt": "2025-11-22T00:32:29.404Z",
+  "generatedAt": "2025-11-22T00:49:29.839Z",
   "docAiLatencyMs": 0,
-  "totalCostUsd": 0.0420675,
-  "totalEndToEndLatencyMs": 38915,
+  "totalCostUsd": 0.039947500000000004,
+  "totalEndToEndLatencyMs": 31535,
   "totalPages": 2,
   "pages": [
     {
       "pageNumber": 1,
       "htmlFile": "word-level.html",
-      "llmLatencyMs": 38850,
+      "llmLatencyMs": 31463,
       "llmUsage": {
         "inputTokens": 1227,
-        "outputTokens": 1950,
-        "totalTokens": 3177
+        "outputTokens": 1844,
+        "totalTokens": 3071
       },
-      "llmCostUsd": 0.02103375,
-      "endToEndLatencyMs": 38915,
+      "llmCostUsd": 0.019973750000000002,
+      "endToEndLatencyMs": 31535,
       "evaluation": {
-        "wordsOcredPercent": 88.6032562125107,
-        "extraWordsPercent": 19.194515852613538,
+        "wordsOcredPercent": 89.46015424164524,
+        "extraWordsPercent": 14.138817480719796,
         "referenceWordCount": 1167,
-        "outputWordCount": 1258,
+        "outputWordCount": 1209,
         "missingWords": {},
         "extraWords": {}
       }
@@ -30,19 +30,19 @@
     {
       "pageNumber": 1,
       "htmlFile": "single-column.html",
-      "llmLatencyMs": 38850,
+      "llmLatencyMs": 31463,
       "llmUsage": {
         "inputTokens": 1227,
-        "outputTokens": 1950,
-        "totalTokens": 3177
+        "outputTokens": 1844,
+        "totalTokens": 3071
       },
-      "llmCostUsd": 0.02103375,
+      "llmCostUsd": 0.019973750000000002,
       "endToEndLatencyMs": 0,
       "evaluation": {
-        "wordsOcredPercent": 88.6032562125107,
-        "extraWordsPercent": 19.194515852613538,
+        "wordsOcredPercent": 89.46015424164524,
+        "extraWordsPercent": 14.138817480719796,
         "referenceWordCount": 1167,
-        "outputWordCount": 1258,
+        "outputWordCount": 1209,
         "missingWords": {},
         "extraWords": {}
       }

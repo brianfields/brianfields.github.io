@@ -1,10 +1,10 @@
 {
   "sourceFile": "medley-both-pages",
   "pipelineName": "tesseract-no-preprocess",
-  "generatedAt": "2025-11-22T00:31:00.020Z",
+  "generatedAt": "2025-11-22T00:48:09.673Z",
   "docAiLatencyMs": 0,
   "totalCostUsd": 0,
-  "totalEndToEndLatencyMs": 11816,
+  "totalEndToEndLatencyMs": 11045,
   "totalPages": 2,
   "pages": [
     {
@@ -17,7 +17,7 @@
         "totalTokens": 0
       },
       "llmCostUsd": 0,
-      "endToEndLatencyMs": 11816,
+      "endToEndLatencyMs": 11045,
       "evaluation": {
         "wordsOcredPercent": 91.68808911739504,
         "extraWordsPercent": 0.7712082262210797,

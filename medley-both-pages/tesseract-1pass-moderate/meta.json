@@ -1,10 +1,10 @@
 {
   "sourceFile": "medley-both-pages",
   "pipelineName": "tesseract-1pass-moderate",
-  "generatedAt": "2025-11-22T00:31:26.084Z",
+  "generatedAt": "2025-11-22T00:48:33.816Z",
   "docAiLatencyMs": 0,
   "totalCostUsd": 0,
-  "totalEndToEndLatencyMs": 12141,
+  "totalEndToEndLatencyMs": 11708,
   "totalPages": 2,
   "pages": [
     {
@@ -17,7 +17,7 @@
         "totalTokens": 0
       },
       "llmCostUsd": 0,
-      "endToEndLatencyMs": 12141,
+      "endToEndLatencyMs": 11708,
       "evaluation": {
         "wordsOcredPercent": 95.54413024850042,
         "extraWordsPercent": 4.370179948586118,
